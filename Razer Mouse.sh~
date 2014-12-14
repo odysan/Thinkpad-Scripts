@@ -1,0 +1,3 @@
+#!/bin/sh
+xinput --set-prop "Razer DeathAdder" "Device Accel Constant Deceleration" 5
+xinput --set-prop "Razer DeathAdder" "Device Accel Velocity Scaling" 1
